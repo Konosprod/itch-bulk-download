@@ -16,6 +16,10 @@ Download free games from itch.io
 
 Enjoy !
 
+## How to get the API_KEY
+
+To get an API key, just go on your profile settings. You can get a key under the API Key tab.
+
 ## How to get CRSF_TOKEN
 
 Juste check the cookies stored in your browser for itch.io. It should have a CSRF_TOKEN entry.
